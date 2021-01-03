@@ -1,0 +1,713 @@
+@media(min-width:1440px){
+
+}
+
+@media(min-width:1024px) and (max-width:1439.98px){
+    
+    .content p {
+        padding: 0 28px;
+    }
+}
+@media(min-width:992px) and (max-width:1199.98px){
+    .custom-margin-2 {
+        margin-right: 11px;
+    }
+    .frontend:hover ul {
+        transform: translateY(28%);
+        opacity: 1;
+    }
+}
+
+@media(min-width:768px) and (max-width:991.98px){
+     /* header section start */
+     .navbar-brand h3{
+         font-size: 23px;
+     }
+     .nav-link {
+         font-size: 15px;
+     }
+     .content p {
+        padding: 0 28px;
+    }
+    header {
+        min-height: 0;
+    }
+    .hg{
+        min-height: 65vh;
+    }
+    /* about me section start */
+    .about_content {
+        padding: 0 0;
+    }
+    .about_content h2 {
+        font-size: 40px;
+    }
+    .about_content p {
+        font-size: 14px;
+    }
+    .about_content span {
+        font-size: 6rem;
+    }
+    .feature .f-content h3{
+        margin-top: 30px;
+        font-weight: 600;
+        font-size: 20px;
+        color: #40afcc;
+    }
+    /* skill section start */
+    .skill_content span {
+        font-size: 5rem;
+        top: 4px;
+    }
+    /* resume section start */
+    .resume_content span {
+        font-size: 5rem;
+        top: 4px;
+    }
+/* resume section end */
+/*contact section start*/
+.custom-margin-2 {
+    margin-right: 8px;
+}
+.btn-custom-5 {
+    margin-left: 37%;
+}
+.s-content i {
+    color: #40AFCC;
+    font-size: 23pt;
+}
+.s-content h3 {
+    vertical-align: baseline;
+    margin-left: 13px;
+    font-size: 21px;
+}
+
+/*contact section end*/
+
+/*skills section start*/
+.frontend:hover ul {
+    transform: translateY(21%);
+    opacity: 1;
+}
+.frontend ul {
+    font-size: 18px;
+    transform: translateY(127%);
+}
+/*skills section end */
+
+/* question section start */
+.btn-custom-3 {
+    background-color: #FFFFFF;
+    color: #20A7CA;
+    font-size: 19px;
+    padding: 8px 18px;
+    border: none;
+    font-weight: 600;
+    border-bottom-right-radius: 29px;
+    box-shadow: 1px 1px 6px 4px #3A9FB9;
+}
+.project-content span {
+    display: block;
+    font-weight: 700;
+    font-size: 30pt;
+    margin-top: 7px;
+}
+/*question section end */
+}
+@media(min-width:576px) and (max-width:767.98px){
+        /* header section start */
+        .social-share {
+            top: 78%;
+            right: 39%;
+        }
+        .social-share ul {
+            transform: rotate(90deg);
+        }
+        .social-share a {
+            transform: rotate(270deg);
+        }
+        /* navbar section start */
+        .menu{
+            display: -webkit-box;
+        }
+        .menu .menu-item {
+            margin-right: auto;
+        }
+    
+        .menu .menu-item:hover::before {
+            width: 114%;
+            left: -6%;
+        }
+        .menu .menu-item::before {
+            left: 52%;
+        }
+    
+        .menu .menu-item::after {
+        left: -5%;
+        width: 113%;
+        }
+        .nav-link {
+            text-align: right;
+        }
+        /* navbar section end */
+        /* header section end */
+        /* about_me section start */
+    
+        .about_img {
+            margin-bottom: 9%;
+        }
+        .about_content{
+            margin-top: 40px;
+        }
+        .about_content span {
+            font-size: 90px;
+        }
+        /* about me section start */
+        /* skill_content section start */
+        .skill_content span {
+            font-size: 58px;
+            top: 7px;
+        }
+        /* front end section start */
+        .frontend {
+            margin-bottom: 27px;
+        }
+        /* front end section end */
+        /* digital section start */
+        .digital ul {
+            top: 5%;
+        }
+        /* graphic section start */
+        .graphic:hover ul {
+            transform: translateY(18%);
+            opacity: 1;
+        }
+        /* skill section end */
+        /* resume section start */
+        .resume_content span {
+            font-size: 59px;
+            top: 7px;
+        }
+        .resum-box::before {
+            /* top: 1px; */
+            /* left: -7px; */
+        }
+        
+    /*question section start*/
+    .project-content span {
+        display: block;
+        font-weight: 700;
+        font-size: 21pt;
+        margin-top: 7px;
+    }
+    .pro-button {
+        text-align: center;
+        margin-bottom: 26px;
+    }
+    .project-content h1 {
+        text-transform: uppercase;
+        font-weight: 400;
+        /* line-height: 1.5; */
+        font-size: 19pt;
+    }
+    .btn-custom-3 {
+        font-size: 13px;
+        padding: 8px 15px;
+    }
+    /* question section end */
+    /* get in touch section start*/
+    .get-head span {
+        font-size: 75px;
+        padding-top: 4px;
+    }
+    .custom-margin-2 {
+        margin-right: 13px;
+    }
+    .btn-custom-5 {
+        margin-left: 59%;
+    }
+    .map {
+        margin: 30px 0;
+    }
+    /*get in touch section end*/
+    /* question section start */
+    .project-content span {
+        font-size: 21pt;
+    }
+    /*question section end */
+    
+    /*social icon section start*/
+    .s-content {
+        background-color: #F1FCFF;
+        padding: 8px 0;
+        border-bottom-right-radius: 30px;
+        cursor: pointer;
+        margin-top: 23px;
+    }
+    .s-content i {
+        color: #40AFCC;
+        font-size: 29pt;
+    }
+    /*social icon section end*/
+}
+
+
+@media(min-width:425px) and (max-width:575.98px){
+    /* header section start */
+    header{
+        min-height: 0;
+    }
+    .hg{
+        min-height: 65vh;
+    }
+    .social-share {
+        top: 78%;
+        right: 39%;
+    }
+    .social-share ul {
+        transform: rotate(90deg);
+    }
+    .social-share a {
+        transform: rotate(270deg);
+    }
+    /* navbar section start */
+    .menu{
+        display: -webkit-box;
+    }
+    .menu .menu-item {
+        margin-right: auto;
+    }
+
+    .menu .menu-item:hover::before {
+        width: 114%;
+        left: -6%;
+    }
+    .menu .menu-item::before {
+        left: 52%;
+    }
+
+    .menu .menu-item::after {
+    left: -5%;
+    width: 113%;
+    }
+    .nav-link {
+        text-align: right;
+    }
+    /* navbar section end */
+    
+    /* header section end */
+    /* about_me section start */
+    .about_content {
+        padding: 0 0px;
+        text-align: center;
+        margin-top: 70px;
+        
+    }
+    .about_content h2 {
+        font-size: 43px;
+        margin-bottom: 40px;
+        
+    }
+    .about_content span {
+        font-size: 53px;
+        }
+    .resume_content h2 {
+        font-size: 45px;
+        padding-bottom: 37px;
+    }
+    .feature .f-content {
+        padding: 45px 0;
+    }   
+    .about_img {
+        margin-bottom: 9%;
+    }
+    /* about me section start */
+    /* skill_content section start */
+    .skill_content span {
+        font-size: 50px;
+        top: 7px;
+    }
+    .about_content span {
+    font-size: 90px;
+    }
+    /* skill_content start */
+    /* font end section start */
+    .frontend {
+        margin-bottom: 27px;
+    }
+    .front_content h2 {
+        font-size: 22pt;
+    }
+    /* font end section end */
+    /* digital section start */
+    .digital ul {
+        top: 5%;
+    }
+    /* graphic section start */
+    .graphic:hover ul {
+        transform: translateY(18%);
+        opacity: 1;
+    }
+    /* skill section end */
+    /* resume section start */
+    .resume_content span {
+        font-size: 51px;
+        top: 7px;
+    }
+    
+   
+/*project section start */
+.project-content {
+    padding: 17px 11px;
+    text-align: center;
+}
+.project-content span {
+    display: block;
+    font-weight: 700;
+    font-size: 24pt;
+    margin-top: 7px;
+}
+.pro-button {
+    text-align: center;
+    margin-bottom: 26px;
+}
+/* project section end */
+/* get in touch section start */
+.get-head span {
+    font-size: 68px;
+    padding-top: 4px;
+}
+.custom-margin-2 {
+    margin-right: 9px;
+}
+.btn-custom-5 {
+    margin-left: 47%;
+}
+.map {
+    margin: 30px 0;
+}
+/* get in touch section end */
+
+/* social icon section start */
+.s-content {
+    background-color: #F1FCFF;
+    padding: 8px 0;
+    border-bottom-right-radius: 30px;
+    cursor: pointer;
+    margin-top: 23px;
+}
+.s-content i {
+    color: #40AFCC;
+    font-size: 29pt;
+}
+.linkdin h3{
+    
+font-size: 25px;
+}
+/* social icon section end */
+
+}
+
+@media(min-width:375px) and (max-width:424.98px){
+    /* header section start */
+    /* navbar section */
+    .navbar-brand h3{
+        font-size: 23px;
+    }
+    header{
+        min-height: 0;
+    }
+    .hg{
+        min-height: 60vh;
+    }
+    .menu .menu-item {
+        margin-right: auto;
+    }
+
+    .content p {
+        padding: 0 0px;
+    }
+    /* social section */
+    .social-share {
+        top: 76%;
+        right: 39%;
+    }
+    .social-share ul {
+        transform: rotate(90deg);
+    }
+    .social-share a {
+        transform: rotate(270deg);
+    }
+    /* header section end */
+    /* about section start */
+    .about_content {
+        padding: 0 0px;
+        text-align: center;
+        margin: 70px 0;
+        
+    }
+    .about_content h2 {
+        font-size: 43px;
+        margin-bottom: 40px;
+        
+    }
+    .about_content span {
+        font-size: 53px;
+        }
+    .resume_content h2 {
+        font-size: 45px;
+        padding-bottom: 37px;
+    }
+    .feature .f-content {
+        padding: 45px 0;
+    }   
+    /* skill section start */
+    .skill_content span {
+        font-size: 44px;
+        top: 9px;
+    }
+    .frontend {
+        margin-bottom: 22px;
+    }
+    .frontend ul {
+        font-size: inherit;
+    }
+    .front_content h2 {
+        font-size: 20pt;
+    }
+    /* digital section start */
+    .digital {
+        margin-top: 23px;
+    }
+    .digital ul {
+        font-size: initial;
+        top: 0;
+    }
+    /* skill section end */
+/* resume section start */
+  
+/* resume section end */
+    /* contact form section start */
+    .btn-custom-5 {
+        margin-left: 40%;
+    }
+    /* contact form section end */
+     
+    /* question section start */
+    .pro-button {
+        text-align: center;
+        margin-bottom: 23px;
+    }
+    .custom-row {
+        background-color: #40AFCC;
+        border-bottom-right-radius:0px;
+    }
+    .project-content {
+        text-align: center;
+    }
+    .project-content h1 {
+        font-size: 21pt;
+    }
+    .project-content span {
+        font-size: 23pt;
+    }
+    /* question section end */
+    /* get touch-section start */
+    .get-head h2 {
+        font-size: 45px;
+    }
+    .get-head span {
+        font-size: 59px;
+        top: 4px;
+    }
+    /* get touch-section end */
+    .works h2 {
+        font-size: 40px;
+    }
+    .filter-button {
+    font-size: 14px;
+    
+    margin-bottom: 20px;
+    margin-right: 10px;
+    }
+    /* contact-section start */
+    .custom-margin-2 {
+        margin-right: 8px;
+    }
+    .get-head h2 {
+        font-size: 40px;
+    }
+    form{
+        margin-bottom: 25px;
+    }
+    /* contact-section end */
+    /* social-section end */
+    .s-content i {
+        font-size: 27pt;
+    }
+    .s-content h3 {
+        margin-left: 9px;
+        font-weight: 700;
+    }
+    .s-content {
+        background-color: #F1FCFF;
+        padding: 13px 0;
+        border-bottom-right-radius: 30px;
+        cursor: pointer;
+        margin-bottom: 20px;
+    }
+    /* social-section end */
+}
+
+@media(min-width:320px) and (max-width:374.98px){
+    /* navbar section start */
+    .navbar-brand h3{
+        font-size: 20px;
+    }
+    header{
+        min-height: 0;
+    }
+    .hg{
+        min-height: 60vh;
+    }
+    .content h1{
+        font-size: 30px;
+     }
+    .social-share {
+        top: 75%;
+        right: 39%;
+    }
+    .social-share a {
+        transform: rotate(270deg);
+    }
+    .social-share ul {
+        transform: rotate(90deg);
+    }
+    .content p {
+        padding: 0 1px;
+    }
+    
+    /* about-me-section start */
+    .about_content {
+        padding: 0 0px;
+        text-align: center;
+    }
+    .about_content h2 {
+        font-size: 40px;
+        margin-top: 40px;
+    }
+    .about_content span {
+        font-size: 53px;
+        }
+    .about_img {
+        margin-bottom: 21px;
+    }
+    /* -about-section end */
+    /* skill section start */
+    .skill_content span {
+        font-size: 37px;
+        top: 11px;
+    }
+    .front_content h2 {
+        font-size: 17pt;
+    }
+    .frontend {
+        margin-bottom: 20px;
+    }
+    .frontend ul {
+        font-size: 15px;
+        transform: translateY(-76%);
+    }
+    .frontend:hover ul {
+        transform: translateY(22%);
+        opacity: 1;
+    }
+    .digital ul {
+        font-size: 15px;
+        transform: translateY(-76%);
+    }
+    .digital:hover ul {
+        transform: translateY(-2%);
+        opacity: 1;
+    }
+    /* skill-section end */
+    
+    /* resume-section start */
+    .resume_content h2 {
+        font-size: 40px;
+        padding-bottom: 37px;
+    }
+    /* resume-section end */
+    
+    .works h2 {
+        font-size: 40px;
+    }
+    .filter-button {
+        font-size: 12px;
+        margin-bottom: 15px;
+        margin-right: 0px;
+    }
+    /* question section start */
+    .project-content {
+        text-align: center;
+    }
+    .project-content h1 {
+        font-size: 18pt;
+        
+    }
+    .project-content span {
+        font-size: 18pt;
+    }
+    .pro-button {
+        text-align: center;
+    }
+    .custom-row {
+        border-bottom-right-radius: 0px;
+    }
+    .btn-custom-3 {
+        font-size: 15px;
+        margin-bottom: 22px;
+    }
+    /* question section end */
+
+    /* get in-section start */
+    .get-head span {
+        font-size: 49px;
+        top: 5px;
+    }
+    .get-head h2 {
+        font-size: 37px;
+        padding-bottom: 47px;
+    }
+    /* get in-section end */
+
+     /* contact-section start */
+     .custom-margin-2 {
+        margin-right: 7px;
+    }
+    .btn-custom-5 {
+        font-size: 17px;
+        margin-bottom: 21px;
+        margin-left: 46%;
+        padding: 9px 51px;
+    }
+    /* contact-section end */
+
+    /* contact-section start */
+     .s-content i {
+        font-size: 21pt;
+    }
+    .s-content {
+        margin-bottom: 21px;
+    }
+    /* contact-section end */
+
+     /* footer-section start */
+     .footer-content h5 {
+        color: white;
+        font-weight: 400;
+        font-size: 16px;
+    }
+    /* footer-section end */
+
+}
